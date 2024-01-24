@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10255504043",
+    "project_id": "hotel-8f024",
+    "storage_bucket": "hotel-8f024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10255504043:android:0bd16abbb81e2a26365dee",
+        "android_client_info": {
+          "package_name": "com.example.foodmake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvyV9aKCNnaVeQKtI4tV-41Tfy4xwM96c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
